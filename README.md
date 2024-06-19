@@ -46,5 +46,5 @@ This will open a new tab in your default web browser with the Image Component An
 
 ## Acknowledgments
 
-- [Ultralytics YOLO](https://github.com/ultralytics/yolov5) for the object detection model.
+- [Ultralytics YOLO](https://github.com/ultralytics/ultralytics) for the object detection model.
 - [Streamlit](https://streamlit.io/) for the easy-to-use web application framework.
